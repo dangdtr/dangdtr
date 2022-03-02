@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 <br>
 <span><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go logo" height="25" /></span>
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawnpanpan&layout=compact&hide=css,html)
+<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawnpanpan&layout=compact&hide=css,html)
+</span>
